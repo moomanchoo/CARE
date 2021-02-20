@@ -1,0 +1,41 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/moomanchoo/CARE/master/CARE-logo-round-64x64.png",
+        "url_png_logo": "https://github.com/moomanchoo/CARE/raw/master/CARE-full-logo.PNG",
+        "location": "France & Australia",
+        "social": {
+            "twitter_handle": "CryptoJeromeFR",
+            "telegram_handle": "CryptoJerome",
+            "facebook_handle": "",
+            "youtube_handle": "Crypto Jerome",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "Sydney",
+            "country": "Australia",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Scientific technician in micro/nano fabrication & metrology, Caring for over $6 Million in scientific instruments. Passionate about Cardano, decentralisation and giving back.",
+            "server": " A mix of bare-metal and clould servers, balancing decentralisaiton & resilience. We use a small cloud provider and minimum 4 CPU 16GB ram servers",
+            "company": "At Koala pool we believe in giving back & decentralisation. A committed single pool operation, as of epoch 236 35% of pool profit when to saving Koalas. Future plans to build on Cardano"
+        },
+        "rss": ""
+    },
+    "my-pool-ids": {
+        "0": "9138b6f09e8e69c29fdee4e11b147b7ad351aab23fc73a9976907f10",
+        "1": ""
+    },
+    "when-satured-then-recommend": {
+        "0": "",
+        "1": ""
+    },
+    "telegram-admin-handle": {
+        "0": ""
+    }
+}
