@@ -15,20 +15,23 @@
         "company": {
             "name": "",
             "addr": "",
-            "city": "Sydney",
-            "country": "Australia",
+            "city": "",
+            "country": "",
             "company_id": "",
             "vat_id": ""
         },
         "about": {
-            "me": "Scientific technician in micro/nano fabrication & metrology, Caring for over $6 Million in scientific instruments. Passionate about Cardano, decentralisation and giving back.",
-            "server": " A mix of bare-metal and clould servers, balancing decentralisaiton & resilience. We use a small cloud provider and minimum 4 CPU 16GB ram servers",
-            "company": "At Koala pool we believe in giving back & decentralisation. A committed single pool operation, as of epoch 236 35% of pool profit when to saving Koalas. Future plans to build on Cardano"
+            "me": "Hi everyone i'ts Jerome from Youtube. Start earning rewards by staking with Cardano Republic.
+            I am running this pool in collaboration with Steven from KOALA Pool. 
+            
+            Any question, feel free to join the telegram channel : t.me/CryptoJerome
+            
+            Many thanks for your support!"
         },
         "rss": ""
     },
     "my-pool-ids": {
-        "0": "9138b6f09e8e69c29fdee4e11b147b7ad351aab23fc73a9976907f10",
+        "0": "",
         "1": ""
     },
     "when-satured-then-recommend": {
