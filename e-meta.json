@@ -13,17 +13,17 @@
             "github_handle": ""
         },
         "company": {
-            "name": "",
-            "addr": "",
-            "city": "",
-            "country": "",
-            "company_id": "",
-            "vat_id": ""
+            "name": "none as yet",
+            "addr": "somewhere",
+            "city": "Paris",
+            "country": "France",
+            "company_id": "dfh;ksldfh;dhf8ds8dsf78d",
+            "vat_id": "o87dfbposndf"
         },
         "about": {
-            "me": "Hi everyone i'ts Jerome from Youtube. Start earning rewards by staking with Cardano Republic 🇨🇵. I am running this pool in collaboration with Steven from KOALA Pool. Any question, feel free to join the telegram channel : t.me/CryptoJerome  Many thanks for your support!",
-            "server": "",
-            "company": ""
+            "me": "Hi everyone i'ts Jerome from Youtube.",
+            "server": "Currently we are setting up servers etc",
+            "company": "This pool is about supporting me Jerome in making youtube content and helping to decntralise the network by helping other pools"
         },
         "rss": ""
     },
